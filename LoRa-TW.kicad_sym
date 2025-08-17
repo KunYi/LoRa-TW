@@ -698,7 +698,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -10.16 25.908 0)
+			(at -9.906 30.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -763,7 +763,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Semtech"
+		(property "Manufauturer" "Semtech"
 			(at -0.508 -40.64 0)
 			(effects
 				(font
@@ -775,7 +775,7 @@
 		)
 		(symbol "SX1262IMLTRT_0_0"
 			(rectangle
-				(start -10.16 25.4)
+				(start -10.16 30.48)
 				(end 10.16 -30.48)
 				(stroke
 					(width 0.254)
@@ -788,7 +788,7 @@
 		)
 		(symbol "SX1262IMLTRT_1_0"
 			(pin input line
-				(at -13.97 21.59 0)
+				(at -13.97 25.4 0)
 				(length 3.81)
 				(name "VDD_IN"
 					(effects
@@ -805,224 +805,8 @@
 					)
 				)
 			)
-			(pin input line
-				(at -13.97 15.24 0)
-				(length 3.81)
-				(name "NSS"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin input clock
-				(at -13.97 12.7 0)
-				(length 3.81)
-				(name "SCK"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -13.97 10.16 0)
-				(length 3.81)
-				(name "MISO"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "16"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -13.97 7.62 0)
-				(length 3.81)
-				(name "MOSI"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -13.97 0 0)
-				(length 3.81)
-				(name "~{NRESET}"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "15"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -13.97 -2.54 0)
-				(length 3.81)
-				(name "BUSY"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -13.97 -8.89 0)
-				(length 3.81)
-				(name "XTA"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -13.97 -11.43 0)
-				(length 3.81)
-				(name "XTB"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -13.97 -17.78 0)
-				(length 3.81)
-				(name "DIO3"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -13.97 -20.32 0)
-				(length 3.81)
-				(name "DIO2"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -13.97 -22.86 0)
-				(length 3.81)
-				(name "DIO1"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 			(pin power_in line
-				(at 13.97 21.59 180)
-				(length 3.81)
-				(name "VR_PA"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "24"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 13.97 19.05 180)
+				(at -13.97 22.86 0)
 				(length 3.81)
 				(name "VBAT"
 					(effects
@@ -1040,7 +824,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 16.51 180)
+				(at -13.97 20.32 0)
 				(length 3.81)
 				(name "VBAT_IO"
 					(effects
@@ -1058,7 +842,7 @@
 				)
 			)
 			(pin output line
-				(at 13.97 11.43 180)
+				(at -13.97 13.97 0)
 				(length 3.81)
 				(name "VREG"
 					(effects
@@ -1076,7 +860,7 @@
 				)
 			)
 			(pin output line
-				(at 13.97 7.62 180)
+				(at -13.97 10.16 0)
 				(length 3.81)
 				(name "DCC_SW"
 					(effects
@@ -1093,8 +877,224 @@
 					)
 				)
 			)
+			(pin input line
+				(at -13.97 3.81 0)
+				(length 3.81)
+				(name "NSS"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input clock
+				(at -13.97 1.27 0)
+				(length 3.81)
+				(name "SCK"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
 			(pin output line
-				(at 13.97 0 180)
+				(at -13.97 -1.27 0)
+				(length 3.81)
+				(name "MISO"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -13.97 -3.81 0)
+				(length 3.81)
+				(name "MOSI"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -13.97 -8.89 0)
+				(length 3.81)
+				(name "~{NRESET}"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -13.97 -11.43 0)
+				(length 3.81)
+				(name "BUSY"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -13.97 -16.51 0)
+				(length 3.81)
+				(name "XTA"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -13.97 -19.05 0)
+				(length 3.81)
+				(name "XTB"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -13.97 -22.86 0)
+				(length 3.81)
+				(name "DIO3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -13.97 -25.4 0)
+				(length 3.81)
+				(name "DIO2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -13.97 -27.94 0)
+				(length 3.81)
+				(name "DIO1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 13.97 25.4 180)
+				(length 3.81)
+				(name "VR_PA"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 13.97 10.16 180)
 				(length 3.81)
 				(name "RFO"
 					(effects
@@ -1148,7 +1148,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -20.32 180)
+				(at 13.97 -24.13 180)
 				(length 3.81)
 				(name "GND"
 					(effects
@@ -1166,7 +1166,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -20.32 180)
+				(at 13.97 -24.13 180)
 				(length 3.81)
 				(hide yes)
 				(name "GND"
@@ -1185,7 +1185,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -20.32 180)
+				(at 13.97 -24.13 180)
 				(length 3.81)
 				(hide yes)
 				(name "GND"
@@ -1204,7 +1204,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -20.32 180)
+				(at 13.97 -24.13 180)
 				(length 3.81)
 				(hide yes)
 				(name "GND"
@@ -1223,7 +1223,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -22.86 180)
+				(at 13.97 -26.67 180)
 				(length 3.81)
 				(name "EXP_GND"
 					(effects
