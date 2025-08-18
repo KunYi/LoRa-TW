@@ -1,4 +1,4 @@
-26287818121269026
+26293084707407451
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68803,6 +68803,13 @@ Yellow 5381 Series LED
 2
 2
 LoRa-TW
+C_HF_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+LoRa-TW
 IC5_B39931B2645P810_QUA
 
 B39931B2645P810 
@@ -68817,12 +68824,26 @@ IPEX_20279-001E-03
 3
 3
 LoRa-TW
+L_HF_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+LoRa-TW
 NT2016SA_NDK
 
 NT2016SA-48M-END4910A 
 0
 4
 4
+LoRa-TW
+R_HF_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
 LoRa-TW
 SC-70-6_PSM
 
