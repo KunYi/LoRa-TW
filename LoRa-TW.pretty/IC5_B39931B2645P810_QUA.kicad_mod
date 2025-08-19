@@ -93,28 +93,6 @@
 		(layer "F.SilkS")
 		(uuid "889315c8-c519-4883-8fbb-fc4abce81f36")
 	)
-	(fp_circle
-		(center -0.45 -2.05)
-		(end -0.069 -2.05)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "50dda336-5851-45b5-9fec-6a6586b8a92c")
-	)
-	(fp_circle
-		(center -0.45 -2.05)
-		(end -0.069 -2.05)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill no)
-		(layer "B.SilkS")
-		(uuid "0b2d9c2b-0f63-4038-8cc3-d47eccf74088")
-	)
 	(fp_line
 		(start -0.8509 -1.0033)
 		(end -0.8509 1.0033)
@@ -196,10 +174,10 @@
 		(uuid "ac25b116-443a-4e9d-9a08-57a7cae81b6c")
 	)
 	(fp_circle
-		(center -0.45 -2.05)
-		(end -0.069 -2.05)
+		(center -0.6 -1.5)
+		(end -0.4 -1.5)
 		(stroke
-			(width 0.508)
+			(width 0.2)
 			(type solid)
 		)
 		(fill no)
@@ -249,4 +227,15 @@
 		(uuid "42d0cdce-75a0-410b-a6f3-0194b57b7f80")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D Models/SAW B2619 Filter.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
