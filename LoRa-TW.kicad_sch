@@ -4634,13 +4634,13 @@
 				(type solid)
 			)
 		)
-		(column_widths 12.7 12.7 12.7)
+		(column_widths 20.32 10.16 11.43)
 		(row_heights 2.54 2.54 2.54)
 		(cells
 			(table_cell "Ctrl Signal"
 				(exclude_from_sim no)
 				(at 204.47 120.65 0)
-				(size 12.7 2.54)
+				(size 20.32 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -4656,8 +4656,8 @@
 			)
 			(table_cell "TX Path"
 				(exclude_from_sim no)
-				(at 217.17 120.65 0)
-				(size 12.7 2.54)
+				(at 224.79 120.65 0)
+				(size 10.16 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -4673,8 +4673,8 @@
 			)
 			(table_cell "RX Path"
 				(exclude_from_sim no)
-				(at 229.87 120.65 0)
-				(size 12.7 2.54)
+				(at 234.95 120.65 0)
+				(size 11.43 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -4688,10 +4688,10 @@
 				)
 				(uuid "acd12147-effb-41c2-a94b-2d1146b8f1e7")
 			)
-			(table_cell "DIO2_ANT_{SW}"
+			(table_cell "DIO2_ANT_{SW}/TXEN"
 				(exclude_from_sim no)
 				(at 204.47 123.19 0)
-				(size 12.7 2.54)
+				(size 20.32 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -4707,8 +4707,8 @@
 			)
 			(table_cell "High"
 				(exclude_from_sim no)
-				(at 217.17 123.19 0)
-				(size 12.7 2.54)
+				(at 224.79 123.19 0)
+				(size 10.16 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -4724,8 +4724,8 @@
 			)
 			(table_cell "Low"
 				(exclude_from_sim no)
-				(at 229.87 123.19 0)
-				(size 12.7 2.54)
+				(at 234.95 123.19 0)
+				(size 11.43 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -4739,10 +4739,10 @@
 				)
 				(uuid "19c79929-9508-40f0-9608-302795223819")
 			)
-			(table_cell "MCU_ANT_{SW}"
+			(table_cell "MCU_ANT_{SW}/RXEN"
 				(exclude_from_sim no)
 				(at 204.47 125.73 0)
-				(size 12.7 2.54)
+				(size 20.32 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -4758,8 +4758,8 @@
 			)
 			(table_cell "Low"
 				(exclude_from_sim no)
-				(at 217.17 125.73 0)
-				(size 12.7 2.54)
+				(at 224.79 125.73 0)
+				(size 10.16 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
@@ -4775,8 +4775,8 @@
 			)
 			(table_cell "High"
 				(exclude_from_sim no)
-				(at 229.87 125.73 0)
-				(size 12.7 2.54)
+				(at 234.95 125.73 0)
+				(size 11.43 2.54)
 				(margins 0.9525 0.9525 0.9525 0.9525)
 				(span 1 1)
 				(fill
