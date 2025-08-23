@@ -1,0 +1,280 @@
+(footprint "B39931B2645P810_QUA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "B39931B2645P810 ")
+	(property "Reference" "FL1"
+		(at 0 -0.500126 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2d387076-47c0-4577-8e5e-ce98e789e03e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SAW 922.5MHz"
+		(at 0 -0.500126 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ca962a2-2aff-4e8b-bb20-5bddcfcb3146")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "kicad-embed://Qualcomm_B2619-3463348.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d45771b6-fcf6-4972-ba36-59d5e846ae27")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SAW Filter,  CF: 922.5MHz, BW:5MHz"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fca3d96a-0dbd-485a-8008-a7e720add7cc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufauturer" "RF360 Europe GmbH - Qualcomm/TDK Joint"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1e6addbc-a1ec-4579-a417-890046b27eb0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part No" "B39931B2645P810"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b633fa60-3cca-4088-b781-ecedc3349708")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.7239 -0.8763)
+		(end -0.7239 -0.37669)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9bdfe3fa-f905-494f-aee4-0a83d9b1b7ce")
+	)
+	(fp_line
+		(start -0.436754 -0.8763)
+		(end -0.7239 -0.8763)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eb0e90eb-4bb5-4ae7-9e56-939a7111349c")
+	)
+	(fp_line
+		(start 0.7239 -0.8763)
+		(end 0.436754 -0.8763)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4ad04ac1-170b-4849-a34d-464a9ee6ba75")
+	)
+	(fp_line
+		(start 0.7239 -0.37669)
+		(end 0.7239 -0.8763)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "38116d27-5666-49c8-8dda-b05e15d5f3f4")
+	)
+	(fp_circle
+		(center 0 -1.1)
+		(end 0.00001 -1.1)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7058dc77-2fc9-49d5-90a2-73ebccdfda39")
+	)
+	(fp_line
+		(start -0.8509 -1.0033)
+		(end -0.8509 1.0033)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6e095ce3-8a4a-4fc0-887b-6eccb9f46918")
+	)
+	(fp_line
+		(start -0.8509 1.0033)
+		(end 0.8509 1.0033)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "15fed036-f320-490b-a5c2-a1bf5dc8e5a1")
+	)
+	(fp_line
+		(start 0.8509 -1.0033)
+		(end -0.8509 -1.0033)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ad73db0c-f2b1-4fe6-ab34-1717b99208c2")
+	)
+	(fp_line
+		(start 0.8509 1.0033)
+		(end 0.8509 -1.0033)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bbc5c60a-cabe-4bbd-82de-7b678811075e")
+	)
+	(fp_line
+		(start -0.5969 -0.7493)
+		(end -0.5969 0.7493)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d37c9f2b-6f3d-47ed-a16c-c82674e30e2e")
+	)
+	(fp_line
+		(start -0.5969 0.7493)
+		(end 0.5969 0.7493)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "190e927b-abf2-4b18-b691-5286fe5166e7")
+	)
+	(fp_line
+		(start 0.5969 -0.7493)
+		(end -0.5969 -0.7493)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5e5063c6-fd0c-42a3-9bb9-785ffc7526d6")
+	)
+	(fp_line
+		(start 0.5969 0.7493)
+		(end 0.5969 -0.7493)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "45f79de5-a6d3-4699-ba4e-f7e4d32cb83a")
+	)
+	(fp_circle
+		(center 0 -1.1)
+		(end 0.00001 -1.1)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "31107f17-55f4-4d9c-8a39-6cc6a08e27fd")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.01 0.03975 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ae2c4ac1-1609-4fbd-9a8b-da00d381ace1")
+		(effects
+			(font
+				(size 0.28 0.28)
+				(thickness 0.0625)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 -0.500126)
+		(size 0.381 0.3048)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "498595b8-f320-49f0-9e84-abd21bd00d63")
+	)
+	(pad "2" smd rect
+		(at -0.2875 0)
+		(size 0.381 0.3048)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7bac5734-205f-4e15-b449-f13bdfa0aaa7")
+	)
+	(pad "3" smd rect
+		(at -0.2875 0.499875)
+		(size 0.381 0.3048)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "18d23e82-6c52-4d2e-a073-684e55ea045d")
+	)
+	(pad "4" smd rect
+		(at 0.2875 0.499875)
+		(size 0.381 0.3048)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a32ca993-6015-4d78-86ca-2bf06a000cb9")
+	)
+	(pad "5" smd rect
+		(at 0.2875 0)
+		(size 0.381 0.3048)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ac1eed7b-dd8e-48a7-8931-2dcc3fe385f6")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D Models/SAW B2619 Filter.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -15,13 +15,13 @@
 		)
 	)
 	(property "Value" "IPEX_20279-001E-03"
-		(at 5.4287 3.39285 0)
+		(at 0 -0.55 0)
 		(layer "F.Fab")
 		(uuid "f6997d9b-93c7-4110-9b0d-3c32976006b0")
 		(effects
 			(font
-				(size 0.641181 0.641181)
-				(thickness 0.15)
+				(size 0.2 0.2)
+				(thickness 0.05)
 			)
 		)
 	)
