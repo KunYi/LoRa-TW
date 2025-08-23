@@ -55,6 +55,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "PSemi"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "PE4259-63"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "4259-63"
 			(at 0 0 0)
 			(effects
@@ -252,6 +270,24 @@
 		)
 		(property "Description" "SAW Filter,  Center frequency 922.5MHz"
 			(at 10.922 -16.256 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "QUALCOMM/RF360"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "B39931B2645P810"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -487,7 +523,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "I-PEX MHF-I"
 			(at 0 0 0)
 			(effects
 				(font
@@ -522,7 +558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "I-PEX"
+		(property "Manufacturer" "I-PEX"
 			(at -0.508 -9.906 0)
 			(effects
 				(font
@@ -701,6 +737,24 @@
 		)
 		(property "Description" "TXCO, 2.0mmx1.6mm  SMD-4P"
 			(at 14.224 -11.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "NDK"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "NT2016SA-32MHz-END4263A"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -950,13 +1004,22 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Semtech"
+		(property "Manufacturer" "Semtech"
 			(at -0.508 -40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part No" "SX1262IMLTRT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

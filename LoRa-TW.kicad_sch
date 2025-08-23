@@ -1447,6 +1447,24 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "PSemi"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part No" "PE4259-63"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "ki_keywords" "4259-63"
 				(at 0 0 0)
 				(effects
@@ -1642,7 +1660,16 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "SAW Filter,  Center frequency 922.5MHz"
+				(at 10.922 -16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "QUALCOMM/RF360"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1651,12 +1678,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "Part No" "B39931B2645P810"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_keywords" "B39931B2645P810"
@@ -1887,7 +1915,7 @@
 					)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "I-PEX MHF-I"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1922,7 +1950,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufauturer" "I-PEX"
+			(property "Manufacturer" "I-PEX"
 				(at -0.508 -9.906 0)
 				(effects
 					(font
@@ -2063,8 +2091,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "X1"
-				(at 12.954 -11.176 0)
+			(property "Reference" "X"
+				(at 11.938 6.858 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2072,7 +2100,7 @@
 				)
 			)
 			(property "Value" "NT2016SA-32MHz-END4263A"
-				(at 10.668 -8.382 0)
+				(at 11.43 4.318 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2080,7 +2108,7 @@
 				)
 			)
 			(property "Footprint" "NT2016SA_NDK"
-				(at 13.716 -14.732 0)
+				(at 12.954 -9.906 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2090,7 +2118,7 @@
 				)
 			)
 			(property "Datasheet" "NT2016SA-32MHz-END4263A"
-				(at 14.478 -17.018 0)
+				(at 13.97 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2100,7 +2128,25 @@
 				)
 			)
 			(property "Description" "TXCO, 2.0mmx1.6mm  SMD-4P"
-				(at 14.478 -19.05 0)
+				(at 14.224 -11.938 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "NDK"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part No" "NT2016SA-32MHz-END4263A"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2350,13 +2396,22 @@
 					(hide yes)
 				)
 			)
-			(property "Manufauturer" "Semtech"
+			(property "Manufacturer" "Semtech"
 				(at -0.508 -40.64 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Part No" "SX1262IMLTRT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 					(hide yes)
 				)
 			)
@@ -5043,16 +5098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±5%, 50V"
-			(at 139.7 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H470JB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 139.7 78.74 0)
 			(effects
 				(font
@@ -5062,6 +5108,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 139.7 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H470JB01D"
 			(at 139.7 78.74 0)
 			(effects
 				(font
@@ -5128,16 +5183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
-			(at 153.67 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H1R8BB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 153.67 88.9 0)
 			(effects
 				(font
@@ -5147,6 +5193,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H1R8BB01D"
 			(at 153.67 88.9 0)
 			(effects
 				(font
@@ -5213,7 +5268,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 144.78 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
 			(at 144.78 105.41 0)
 			(effects
 				(font
@@ -5223,15 +5287,6 @@
 			)
 		)
 		(property "Part No" "GJM1555C1H2R4BB01D"
-			(at 144.78 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufauturer" "Murata"
 			(at 144.78 105.41 0)
 			(effects
 				(font
@@ -5298,7 +5353,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±5%, 1/16W"
+		(property "Description" "Resistor, small symbol"
 			(at 121.92 170.18 0)
 			(effects
 				(font
@@ -5307,7 +5362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 121.92 170.18 90)
 			(effects
 				(font
@@ -5579,7 +5634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±5%, 1/16W"
+		(property "Description" "Resistor, small symbol"
 			(at 73.66 116.84 0)
 			(effects
 				(font
@@ -5588,7 +5643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 73.66 116.84 90)
 			(effects
 				(font
@@ -6085,7 +6140,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3a25d2ae-d66b-4b03-95f5-cc54a81b3035")
 		(property "Reference" "J2"
 			(at 100.33 154.94 0)
@@ -6351,7 +6406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±5%, 50V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 177.8 83.82 0)
 			(effects
 				(font
@@ -6436,16 +6491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.25pF, 50V"
-			(at 168.91 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H5R6CB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 168.91 88.9 0)
 			(effects
 				(font
@@ -6455,6 +6501,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 168.91 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H5R6CB01D"
 			(at 168.91 88.9 0)
 			(effects
 				(font
@@ -6521,7 +6576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors X7R ±10%, 100V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 193.04 127 0)
 			(effects
 				(font
@@ -6530,7 +6585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 193.04 127 0)
 			(effects
 				(font
@@ -6599,7 +6654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "kicad-embed://NT2016SA-32M-END4263A.pdf"
+		(property "Datasheet" "NT2016SA-32MHz-END4263A"
 			(at 46.228 103.632 0)
 			(effects
 				(font
@@ -6618,7 +6673,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" ""
+		(property "Manufacturer" "NDK"
+			(at 31.75 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "NT2016SA-32MHz-END4263A"
 			(at 31.75 120.65 0)
 			(effects
 				(font
@@ -6757,16 +6821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
-			(at 87.63 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H3R3BB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 87.63 86.36 0)
 			(effects
 				(font
@@ -6776,6 +6831,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 87.63 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H3R3BB01D"
 			(at 87.63 86.36 0)
 			(effects
 				(font
@@ -6917,7 +6981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "I-PEX"
+		(property "Manufacturer" "I-PEX"
 			(at 267.462 110.236 0)
 			(effects
 				(font
@@ -6960,7 +7024,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "579a9154-3d17-4f5d-987f-bfe7b5b910b7")
 		(property "Reference" "J3"
 			(at 261.62 143.5099 0)
@@ -7063,16 +7127,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
-			(at 255.27 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H3R3BB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 255.27 105.41 0)
 			(effects
 				(font
@@ -7082,6 +7137,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 255.27 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H3R3BB01D"
 			(at 255.27 105.41 0)
 			(effects
 				(font
@@ -7150,16 +7214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Wirewound Inductor ±3%"
-			(at 96.52 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "MLZ2012M150WT000"
+		(property "Description" "Inductor, small symbol"
 			(at 96.52 90.17 0)
 			(effects
 				(font
@@ -7169,6 +7224,15 @@
 			)
 		)
 		(property "Manufacturer" "TDK"
+			(at 96.52 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "MLZ2012M150WT000"
 			(at 96.52 90.17 0)
 			(effects
 				(font
@@ -7235,7 +7299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors X7R ±10%, 10V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 63.5 59.69 0)
 			(effects
 				(font
@@ -7244,7 +7308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 63.5 59.69 0)
 			(effects
 				(font
@@ -7482,7 +7546,17 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Semtech"
+		(property "Manufacturer" "Semtech"
+			(at 112.522 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part No" "SX1262IMLTRT"
 			(at 113.03 100.33 0)
 			(effects
 				(font
@@ -7618,7 +7692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±5%, 1/16W"
+		(property "Description" "Resistor, small symbol"
 			(at 132.08 162.56 0)
 			(effects
 				(font
@@ -7627,7 +7701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 132.08 162.56 90)
 			(effects
 				(font
@@ -7703,16 +7777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±5%, 50V"
-			(at 237.49 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H390JB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 237.49 100.33 0)
 			(effects
 				(font
@@ -7722,6 +7787,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 237.49 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H390JB01D"
 			(at 237.49 100.33 0)
 			(effects
 				(font
@@ -7788,7 +7862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±5%, 1/16W"
+		(property "Description" "Resistor, small symbol"
 			(at 121.92 160.02 0)
 			(effects
 				(font
@@ -7797,7 +7871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 121.92 160.02 90)
 			(effects
 				(font
@@ -7940,16 +8014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Wirewound Inductor ±3%"
-			(at 250.19 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "LQW15AN9N1H00D"
+		(property "Description" "Inductor, small symbol"
 			(at 250.19 100.33 0)
 			(effects
 				(font
@@ -7959,6 +8024,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 250.19 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "LQW15AN9N1H00D"
 			(at 250.19 100.33 0)
 			(effects
 				(font
@@ -8034,7 +8108,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" ""
+		(property "Manufacturer" ""
+			(at 185.42 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 185.42 137.16 90)
 			(effects
 				(font
@@ -8094,7 +8177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "kicad-embed://pe4259ds.pdf"
+		(property "Datasheet" "4259-63"
 			(at 215.646 93.98 0)
 			(effects
 				(font
@@ -8113,7 +8196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "PSEMI"
+		(property "Part No" "PE4259-63"
 			(at 201.93 97.79 0)
 			(effects
 				(font
@@ -8122,7 +8205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "PE4259-63"
+		(property "Manufacturer" "PSemi"
 			(at 201.93 97.79 0)
 			(effects
 				(font
@@ -8201,7 +8284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors X7R ±10%, 50V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 57.15 127 0)
 			(effects
 				(font
@@ -8210,7 +8293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 57.15 127 0)
 			(effects
 				(font
@@ -8352,16 +8435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
-			(at 245.11 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H3R3BB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 245.11 105.41 0)
 			(effects
 				(font
@@ -8371,6 +8445,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 245.11 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H3R3BB01D"
 			(at 245.11 105.41 0)
 			(effects
 				(font
@@ -8437,7 +8520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±5%, 1/16W"
+		(property "Description" "Resistor, small symbol"
 			(at 132.08 157.48 0)
 			(effects
 				(font
@@ -8446,7 +8529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 132.08 157.48 90)
 			(effects
 				(font
@@ -8587,7 +8670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±5%, 1/16W"
+		(property "Description" "Resistor, small symbol"
 			(at 132.08 167.64 0)
 			(effects
 				(font
@@ -8596,7 +8679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 132.08 167.64 90)
 			(effects
 				(font
@@ -8674,7 +8757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Wirewound Inductor ±0.2nH"
+		(property "Description" "Inductor, small symbol"
 			(at 187.96 83.82 0)
 			(effects
 				(font
@@ -8752,7 +8835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "kicad-embed://Qualcomm_B2619-3463348.pdf"
+		(property "Datasheet" "B39931B2645P810"
 			(at 174.498 117.094 0)
 			(effects
 				(font
@@ -8762,7 +8845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SAW Filter,  CF: 922.5MHz, BW:5MHz"
+		(property "Description" "SAW Filter,  Center frequency 922.5MHz"
 			(at 186.69 102.87 0)
 			(effects
 				(font
@@ -8771,7 +8854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "RF360 Europe GmbH - Qualcomm/TDK Joint"
+		(property "Manufacturer" "QUALCOMM/RF360"
 			(at 186.69 102.87 0)
 			(effects
 				(font
@@ -8931,7 +9014,16 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" ""
+		(property "Manufacturer" ""
+			(at 185.42 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 185.42 123.19 90)
 			(effects
 				(font
@@ -8998,16 +9090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
-			(at 161.29 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H3R0BB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 161.29 74.93 0)
 			(effects
 				(font
@@ -9017,6 +9100,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 161.29 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H3R0BB01D"
 			(at 161.29 74.93 0)
 			(effects
 				(font
@@ -9149,7 +9241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors X7R ±10%, 50V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 153.67 153.67 0)
 			(effects
 				(font
@@ -9158,7 +9250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 153.67 153.67 0)
 			(effects
 				(font
@@ -9234,7 +9326,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 152.4 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata"
 			(at 152.4 114.3 0)
 			(effects
 				(font
@@ -9244,15 +9345,6 @@
 			)
 		)
 		(property "Part No" ""
-			(at 152.4 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufauturer" "Murata"
 			(at 152.4 114.3 0)
 			(effects
 				(font
@@ -9319,7 +9411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors X7R ±10%, 100V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 193.04 140.97 0)
 			(effects
 				(font
@@ -9328,7 +9420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 193.04 140.97 0)
 			(effects
 				(font
@@ -9470,7 +9562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±5%, 1/16W"
+		(property "Description" "Resistor, small symbol"
 			(at 121.92 165.1 0)
 			(effects
 				(font
@@ -9479,7 +9571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 121.92 165.1 90)
 			(effects
 				(font
@@ -9555,7 +9647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors X7R ±10%, 50V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 80.01 78.74 0)
 			(effects
 				(font
@@ -9564,7 +9656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 80.01 78.74 0)
 			(effects
 				(font
@@ -9642,7 +9734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Wirewound Inductor ±3%"
+		(property "Description" "Inductor, small symbol"
 			(at 137.16 110.49 0)
 			(effects
 				(font
@@ -9793,7 +9885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±5%, 1/16W"
+		(property "Description" "Resistor, small symbol"
 			(at 83.82 167.64 0)
 			(effects
 				(font
@@ -9802,7 +9894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 83.82 167.64 90)
 			(effects
 				(font
@@ -9878,7 +9970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite Bead 1A"
+		(property "Description" "Ferrite bead, small symbol"
 			(at 67.31 120.65 0)
 			(effects
 				(font
@@ -9887,7 +9979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 67.31 120.65 90)
 			(effects
 				(font
@@ -9963,7 +10055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±5%, 50V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 62.23 116.84 0)
 			(effects
 				(font
@@ -9972,7 +10064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Murata"
+		(property "Manufacturer" "Murata"
 			(at 62.23 116.84 90)
 			(effects
 				(font
@@ -10113,16 +10205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
-			(at 194.31 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H1R8BB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 194.31 88.9 0)
 			(effects
 				(font
@@ -10132,6 +10215,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 194.31 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H1R8BB01D"
 			(at 194.31 88.9 0)
 			(effects
 				(font
@@ -10200,16 +10292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Wirewound Inductor ±0.2nH"
-			(at 161.29 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "LQW15AN2N5C00D"
+		(property "Description" "Inductor, small symbol"
 			(at 161.29 83.82 0)
 			(effects
 				(font
@@ -10219,6 +10302,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 161.29 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "LQW15AN2N5C00D"
 			(at 161.29 83.82 0)
 			(effects
 				(font
@@ -10415,7 +10507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors X7R ±10%, 25V"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 86.36 60.96 0)
 			(effects
 				(font
@@ -10424,7 +10516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufauturer" "Walsin"
+		(property "Manufacturer" "Walsin"
 			(at 86.36 60.96 0)
 			(effects
 				(font
@@ -10502,16 +10594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Wirewound Inductor ±5%"
-			(at 147.32 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "LQW15AN47NJ00D"
+		(property "Description" "Inductor, small symbol"
 			(at 147.32 78.74 0)
 			(effects
 				(font
@@ -10521,6 +10604,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 147.32 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "LQW15AN47NJ00D"
 			(at 147.32 78.74 0)
 			(effects
 				(font
@@ -10587,16 +10679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors X7R ±10%, 16V"
-			(at 130.81 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GRM155R71C473KA01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 130.81 78.74 0)
 			(effects
 				(font
@@ -10606,6 +10689,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 130.81 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R71C473KA01D"
 			(at 130.81 78.74 0)
 			(effects
 				(font
@@ -10869,16 +10961,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Multilayer ceramic capacitors C0G ±0.1pF, 50V"
-			(at 137.16 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" "GJM1555C1H1R8BB01D"
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 137.16 119.38 0)
 			(effects
 				(font
@@ -10888,6 +10971,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
+			(at 137.16 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GJM1555C1H1R8BB01D"
 			(at 137.16 119.38 0)
 			(effects
 				(font
@@ -10956,16 +11048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistor ±1%, 1/16W"
-			(at 137.16 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part No" ""
+		(property "Description" "Inductor, small symbol"
 			(at 137.16 90.17 0)
 			(effects
 				(font
@@ -10975,6 +11058,15 @@
 			)
 		)
 		(property "Manufacturer" ""
+			(at 137.16 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 137.16 90.17 0)
 			(effects
 				(font
