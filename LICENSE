@@ -1,0 +1,135 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Preamble
+
+CERN has developed this licence to promote collaboration among
+hardware designers and to provide a legal tool which supports the
+freedom to use, study, modify, share and distribute hardware designs
+and products based on those designs. Version 2 of the CERN Open
+Hardware Licence comes in three variants: this strongly reciprocal
+variant, the weakly reciprocal variant and the permissive variant.
+You may use this licence under the terms of either variant.
+
+The CERN-OHL-S is a strong copyleft licence. This means that if you
+redistribute designs based on this licensed material, or products
+using it, you must distribute the complete source for those
+derivatives under the same licence.
+
+---
+
+1 Definitions
+
+1.1 ‘Licence’ means this CERN-OHL-S.
+
+1.2 ‘Source’ means information such as design materials or
+documentation which can be used to make or test a Product or to
+prepare a Product for use, Conveyance or sale, regardless of the form
+or medium in which it is expressed. It includes schematics,
+hardware description language (HDL) files, board layouts, bill of
+materials, manufacturing files, and descriptive documentation.
+
+1.3 ‘Product’ means any device or physical implementation of the
+Licensed Material, or substantial part thereof.
+
+1.4 ‘Licensed Material’ means any Source distributed under this
+Licence.
+
+1.5 ‘Modification’ means any change to the Licensed Material,
+including without limitation, addition to or deletion from the
+substance or structure of the Licensed Material, or translation into
+another language or into another format.
+
+1.6 ‘Derivative’ means any work, whether in Source or Product form,
+that is based on or derived from the Licensed Material or from a
+Modification.
+
+1.7 ‘Convey’ means to communicate or make available by any means,
+including without limitation by physical delivery, communication to
+the public, or distribution.
+
+---
+
+2 Applicability
+
+2.1 You may use the Licensed Material under the terms of this
+Licence. You may make Products, and you may Convey the Licensed
+Material or Products.
+
+---
+
+3 Copying, Modifying and Conveying
+
+3.1 You may copy and modify the Licensed Material, and you may
+Convey modified versions as Source, provided that you:
+(a) retain the notice in Section 4; and
+(b) license the modified Licensed Material under the terms and
+conditions of this Licence.
+
+3.2 You may Convey a Product, provided that you also Convey the
+complete corresponding Source, under this Licence.
+
+---
+
+4 Notices
+
+4.1 Each copy of the Licensed Material you Convey must include the
+following notice:
+
+    Licensed under the CERN-OHL-S v2
+
+4.2 If you modify the Licensed Material, you must include a notice
+stating that you have modified it, and the date of any modification.
+
+---
+
+5 Warranty and liability
+
+5.1 DISCLAIMER OF WARRANTY — The Licensed Material is provided under
+this Licence ‘as is’ and without any express or implied warranties,
+including, without limitation, any warranties of merchantability,
+fitness for a particular purpose, or non-infringement. In no event
+shall any Licensor be liable for any direct, indirect, incidental,
+special, exemplary, or consequential damages (including, but not
+limited to, procurement of substitute goods or services; loss of use,
+data, or profits; or business interruption) however caused and on any
+theory of liability, whether in contract, strict liability, or tort
+(including negligence or otherwise) arising in any way out of the use
+of the Licensed Material, even if advised of the possibility of such
+damage.
+
+5.2 You are solely responsible for determining the appropriateness of
+using or redistributing the Licensed Material and assume any risks
+associated with your exercise of rights under this Licence.
+
+---
+
+6 Patents
+
+6.1 Subject to the terms and conditions of this Licence, each
+Contributor hereby grants to You a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable (except as stated
+in this section) patent license to make, have made, use, offer to
+sell, sell, import, and otherwise transfer the Licensed Material, in
+Source and Product form, where such license applies only to those
+patent claims licensable by such Contributor that are necessarily
+infringed by their Contribution(s) alone or by combination of their
+Contribution(s) with the Licensed Material to which such
+Contribution(s) was submitted.
+
+---
+
+7 General
+
+7.1 This Licence shall terminate immediately and automatically, if
+You fail to comply with any of its terms and conditions.
+
+7.2 This Licence constitutes the entire agreement between the
+parties with respect to the Licensed Material and supersedes all
+prior agreements and understandings, whether written or oral,
+relating to such subject matter.
+
+7.3 You may not use any of the names (including acronyms and
+abbreviations), images, or logos under which CERN is known, except
+as required for reasonable and customary use in describing the
+origin of the Licensed Material and reproducing the content of the
+notices described in Section 4.
