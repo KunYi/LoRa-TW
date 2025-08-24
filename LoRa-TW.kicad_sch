@@ -5098,7 +5098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "47pF 50VDC 5% 0402 C0G(NP0)"
 			(at 139.7 78.74 0)
 			(effects
 				(font
@@ -5183,7 +5183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "3pF 50VDC 0.1pF 0402 C0G(NP0)"
 			(at 153.67 88.9 0)
 			(effects
 				(font
@@ -5201,7 +5201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GJM1555C1H1R8BB01D"
+		(property "Part No" "GJM1555C1H3R0BB01D"
 			(at 153.67 88.9 0)
 			(effects
 				(font
@@ -5268,7 +5268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "2.4pF 50VDC 0.1pF 0402 C0G(NP0)"
 			(at 144.78 105.41 0)
 			(effects
 				(font
@@ -5327,7 +5327,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 125.73 168.91 90)
 			(effects
 				(font
@@ -5353,7 +5353,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "22ohms 5% 0402 1/16watt Thick Film"
 			(at 121.92 170.18 0)
 			(effects
 				(font
@@ -5362,7 +5362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Vishay"
 			(at 121.92 170.18 90)
 			(effects
 				(font
@@ -5371,7 +5371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "CRCW0402220RJNED"
+		(property "Part No" "CRCW040222R0JNED"
 			(at 121.92 170.18 90)
 			(effects
 				(font
@@ -5634,7 +5634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "220ohms 5% 0402 1/16watt Thick Film"
 			(at 73.66 116.84 0)
 			(effects
 				(font
@@ -5643,7 +5643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Vishay"
 			(at 73.66 116.84 90)
 			(effects
 				(font
@@ -6156,6 +6156,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x06_P2.00mm_Vertical"
@@ -6406,7 +6407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "39pF 50VDC 5% 0402 C0G(NP0)"
 			(at 177.8 83.82 0)
 			(effects
 				(font
@@ -6491,7 +6492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "5.6pF 50VDC 0.25pF 0402 C0G(NP0)"
 			(at 168.91 88.9 0)
 			(effects
 				(font
@@ -6558,7 +6559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "LoRa-TW:C_HF_0402_1005Metric"
 			(at 193.04 127 0)
 			(effects
 				(font
@@ -6576,7 +6577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "1nF 100VDC 10% 0402 X7R"
 			(at 193.04 127 0)
 			(effects
 				(font
@@ -6664,7 +6665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "TXCO, 2.0mmx1.6mm  SMD-4P"
+		(property "Description" "TXCO 32MHz, 2.0mmx1.6mm  SMD2016-4P"
 			(at 46.228 101.6 0)
 			(effects
 				(font
@@ -6682,7 +6683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "NT2016SA-32MHz-END4263A"
+		(property "Part No" "NT2016SA-32MHz-END4263A/NT2016SF-END4263D-32M"
 			(at 31.75 120.65 0)
 			(effects
 				(font
@@ -6821,7 +6822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "470nF 10 VDC 10% 0402 X7R"
 			(at 87.63 86.36 0)
 			(effects
 				(font
@@ -6839,7 +6840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GJM1555C1H3R3BB01D"
+		(property "Part No" "GRM155R71A474KE01D"
 			(at 87.63 86.36 0)
 			(effects
 				(font
@@ -7127,7 +7128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "3.3pF 50VDC 0.1pF 0402 C0G(NP0)"
 			(at 255.27 105.41 0)
 			(effects
 				(font
@@ -7214,7 +7215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "15uH 20% 0805  Shielded Multilayer"
 			(at 96.52 90.17 0)
 			(effects
 				(font
@@ -7299,7 +7300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10uF 10VDC 10% 0805 X7R"
 			(at 63.5 59.69 0)
 			(effects
 				(font
@@ -7317,7 +7318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM188Z71A106KA73D"
+		(property "Part No" "GRM21BR71A106KA3L"
 			(at 63.5 59.69 0)
 			(effects
 				(font
@@ -7666,7 +7667,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 135.636 161.544 90)
 			(effects
 				(font
@@ -7692,7 +7693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "22ohms 5% 0402 1/16watt Thick Film"
 			(at 132.08 162.56 0)
 			(effects
 				(font
@@ -7701,7 +7702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Vishay"
 			(at 132.08 162.56 90)
 			(effects
 				(font
@@ -7710,7 +7711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "CRCW0402220RJNED"
+		(property "Part No" "CRCW040222R0JNED"
 			(at 132.08 162.56 90)
 			(effects
 				(font
@@ -7777,7 +7778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "39pF 50VDC 5% 0402 C0G(NP0)"
 			(at 237.49 100.33 0)
 			(effects
 				(font
@@ -7836,7 +7837,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 125.73 159.004 90)
 			(effects
 				(font
@@ -7862,7 +7863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "22ohms 5% 0402 1/16watt Thick Film"
 			(at 121.92 160.02 0)
 			(effects
 				(font
@@ -7871,7 +7872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Vishay"
 			(at 121.92 160.02 90)
 			(effects
 				(font
@@ -7880,7 +7881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "CRCW0402220RJNED"
+		(property "Part No" "CRCW040222R0JNED"
 			(at 121.92 160.02 90)
 			(effects
 				(font
@@ -8014,7 +8015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "9.1nH 3% 0402 Wirewound"
 			(at 250.19 100.33 0)
 			(effects
 				(font
@@ -8081,7 +8082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "LoRa-TW:R_HF_0402_1005Metric"
 			(at 185.42 137.16 0)
 			(effects
 				(font
@@ -8099,7 +8100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100ohms 5% 0402 1/16watt Thick Film"
 			(at 185.42 137.16 0)
 			(effects
 				(font
@@ -8108,7 +8109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay"
 			(at 185.42 137.16 90)
 			(effects
 				(font
@@ -8117,7 +8118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "CRCW0402100RJNED"
 			(at 185.42 137.16 90)
 			(effects
 				(font
@@ -8284,7 +8285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF 50VDC 10% 0402 X7R"
 			(at 57.15 127 0)
 			(effects
 				(font
@@ -8435,7 +8436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "3.3pF 50VDC 0.1pF 0402 C0G(NP0)"
 			(at 245.11 105.41 0)
 			(effects
 				(font
@@ -8494,7 +8495,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 135.89 156.464 90)
 			(effects
 				(font
@@ -8520,7 +8521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "22ohms 5% 0402 1/16watt Thick Film"
 			(at 132.08 157.48 0)
 			(effects
 				(font
@@ -8529,7 +8530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Vishay"
 			(at 132.08 157.48 90)
 			(effects
 				(font
@@ -8538,7 +8539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "CRCW0402220RJNED"
+		(property "Part No" "CRCW040222R0JNED"
 			(at 132.08 157.48 90)
 			(effects
 				(font
@@ -8644,7 +8645,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 135.89 166.624 90)
 			(effects
 				(font
@@ -8670,7 +8671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "22ohms 5% 0402 1/16watt Thick Film"
 			(at 132.08 167.64 0)
 			(effects
 				(font
@@ -8679,7 +8680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Vishay"
 			(at 132.08 167.64 90)
 			(effects
 				(font
@@ -8688,7 +8689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "CRCW0402220RJNED"
+		(property "Part No" "CRCW040222R0JNED"
 			(at 132.08 167.64 90)
 			(effects
 				(font
@@ -8757,7 +8758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "4.7nH +-.2nH  0402 Wirewound"
 			(at 187.96 83.82 0)
 			(effects
 				(font
@@ -8987,7 +8988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "LoRa-TW:R_HF_0402_1005Metric"
 			(at 185.42 123.19 0)
 			(effects
 				(font
@@ -9005,7 +9006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100ohms 5% 0402 1/16watt Thick Film"
 			(at 185.42 123.19 0)
 			(effects
 				(font
@@ -9014,7 +9015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay"
 			(at 185.42 123.19 90)
 			(effects
 				(font
@@ -9023,7 +9024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "CRCW0402100RJNED"
 			(at 185.42 123.19 90)
 			(effects
 				(font
@@ -9090,7 +9091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "3pF 50VDC 0.1pF 0402 C0G(NP0)"
 			(at 161.29 74.93 0)
 			(effects
 				(font
@@ -9241,7 +9242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF 50VDC 10% 0402 X7R"
 			(at 153.67 153.67 0)
 			(effects
 				(font
@@ -9326,7 +9327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "2.4pF 50VDC 0.1pF 0402 C0G(NP0)"
 			(at 152.4 114.3 0)
 			(effects
 				(font
@@ -9344,7 +9345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "GJM1555C1H2R4BB01D"
 			(at 152.4 114.3 0)
 			(effects
 				(font
@@ -9393,7 +9394,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "LoRa-TW:C_HF_0402_1005Metric"
 			(at 193.04 140.97 0)
 			(effects
 				(font
@@ -9411,7 +9412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "1nF 100VDC 10% 0402 X7R"
 			(at 193.04 140.97 0)
 			(effects
 				(font
@@ -9536,7 +9537,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 125.73 164.084 90)
 			(effects
 				(font
@@ -9562,7 +9563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "22ohms 5% 0402 1/16watt Thick Film"
 			(at 121.92 165.1 0)
 			(effects
 				(font
@@ -9571,7 +9572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Vishay"
 			(at 121.92 165.1 90)
 			(effects
 				(font
@@ -9580,7 +9581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "CRCW0402220RJNED"
+		(property "Part No" "CRCW040222R0JNED"
 			(at 121.92 165.1 90)
 			(effects
 				(font
@@ -9647,7 +9648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "100nF 50VDC 10% 0402 X7R"
 			(at 80.01 78.74 0)
 			(effects
 				(font
@@ -9734,7 +9735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "15nH 3% 0402 Wirewound"
 			(at 137.16 110.49 0)
 			(effects
 				(font
@@ -9859,7 +9860,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "22"
 			(at 87.63 166.37 90)
 			(effects
 				(font
@@ -9885,7 +9886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "22ohms 5% 0402 1/16watt Thick Film"
 			(at 83.82 167.64 0)
 			(effects
 				(font
@@ -9894,7 +9895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "Vishay"
 			(at 83.82 167.64 90)
 			(effects
 				(font
@@ -9903,7 +9904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "CRCW0402220RJNED"
+		(property "Part No" "CRCW040222R0JNED"
 			(at 83.82 167.64 90)
 			(effects
 				(font
@@ -9952,7 +9953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "LoRa-TW:R_HF_0402_1005Metric"
 			(at 67.31 122.428 90)
 			(effects
 				(font
@@ -9970,7 +9971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Ferrite bead, small symbol"
+		(property "Description" "10Ohm 25%  0402 Ferrite Beads"
 			(at 67.31 120.65 0)
 			(effects
 				(font
@@ -10029,7 +10030,7 @@
 				)
 			)
 		)
-		(property "Value" "10P"
+		(property "Value" "10p"
 			(at 62.992 113.538 90)
 			(effects
 				(font
@@ -10055,7 +10056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10pF 50VDC 5% 0402 C0G(NP0)"
 			(at 62.23 116.84 0)
 			(effects
 				(font
@@ -10205,7 +10206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "1.8pF 50VDC 0.1pF 0402 C0G(NP0)"
 			(at 194.31 88.9 0)
 			(effects
 				(font
@@ -10292,7 +10293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "2.5nH +-.2nH  0402 Wirewound"
 			(at 161.29 83.82 0)
 			(effects
 				(font
@@ -10507,7 +10508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "1.0uF 25V 10%  0603 X7R"
 			(at 86.36 60.96 0)
 			(effects
 				(font
@@ -10594,7 +10595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "47nH 5% 0402 Wirewound"
 			(at 147.32 78.74 0)
 			(effects
 				(font
@@ -10679,7 +10680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "47nF 16VDC 10% 0402 X7R"
 			(at 130.81 78.74 0)
 			(effects
 				(font
@@ -10961,7 +10962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "1.8pF 50VDC 0.1pF 0402 C0G(NP0)"
 			(at 137.16 119.38 0)
 			(effects
 				(font
@@ -11048,7 +11049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "0ohms 0402 1/16watt Thick Film"
 			(at 137.16 90.17 0)
 			(effects
 				(font
@@ -11057,7 +11058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay"
 			(at 137.16 90.17 0)
 			(effects
 				(font
@@ -11066,7 +11067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "CRCW04020000Z0EDC "
 			(at 137.16 90.17 0)
 			(effects
 				(font
