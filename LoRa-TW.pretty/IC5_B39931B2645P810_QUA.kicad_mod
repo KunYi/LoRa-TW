@@ -227,7 +227,7 @@
 		(uuid "42d0cdce-75a0-410b-a6f3-0194b57b7f80")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/3D Models/SAW B2619 Filter.step"
+	(model "${KIPRJMOD}/3D Models/SAW_1411.step"
 		(offset
 			(xyz 0 0 0)
 		)

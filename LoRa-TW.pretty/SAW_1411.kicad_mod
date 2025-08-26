@@ -1,9 +1,9 @@
-(footprint "B39931B2645P810_QUA"
+(footprint "SAW_1411"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(tags "B39931B2645P810 ")
+	(tags "SAW,1411")
 	(property "Reference" "FL1"
 		(at 0 -0.500126 0)
 		(unlocked yes)
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "SAW 922.5MHz"
+	(property "Value" "Val**"
 		(at 0 -0.500126 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -30,7 +30,7 @@
 			)
 		)
 	)
-	(property "Datasheet" "kicad-embed://Qualcomm_B2619-3463348.pdf"
+	(property "Datasheet" ""
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -42,7 +42,7 @@
 			)
 		)
 	)
-	(property "Description" "SAW Filter,  CF: 922.5MHz, BW:5MHz"
+	(property "Description" "SAW Filter, 1.4mmx1.1mm"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -54,7 +54,7 @@
 			)
 		)
 	)
-	(property "Manufauturer" "RF360 Europe GmbH - Qualcomm/TDK Joint"
+	(property "Manufauturer" ""
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -67,7 +67,7 @@
 			)
 		)
 	)
-	(property "Part No" "B39931B2645P810"
+	(property "Part No" ""
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
